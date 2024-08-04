@@ -1,2 +1,1 @@
-# segunda-prueba-tras-fallar
-sigo probando esta mierda
+prueba 2 de como crear repo y clonarlo desde github a mi esritorio local
